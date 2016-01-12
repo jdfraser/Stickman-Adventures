@@ -1,5 +1,5 @@
 # Stickman-Adventures
-Stickman Adventures is a puzzle platformer made in Unity3D. Combine simple shapes to solve puzzles! Play online at [joshuafraser.info](http://www.joshuafraser.info).
+Stickman Adventures is a puzzle platformer made in Unity3D. Combine simple shapes to solve puzzles! Play online at [joshuafraser.info](http://www.joshuafraser.info) (requires Unity Player and Firefox/IE).
 
 Core Features:
 * 6 Complete Levels
